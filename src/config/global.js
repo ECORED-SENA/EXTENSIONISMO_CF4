@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'Evaluación de resultados de la intervención',
   descripcionCurso:
-    'Este componente aborda la etapa de evaluación de los resultados de intervención, dentro del modelo de extensionismo en el marco de la transformación digital. Incluye dentro de los resultados de la implementación del modelo, el análisis de la madurez de las empresas, seguimiento a indicadores y la consolidación de información y la construcción del informe final de la consultoría empresarial. Las conclusiones de este proceso de intervención permiten validar cómo a través de la asistencia técnica virtual, las organizaciones incrementan sus grados de madurez digital en pro de su progreso digital económico.',
+    'Este componente aborda la etapa de evaluación de los resultados de intervención, dentro del modelo de extensionismo en el marco de la transformación digital. Incluye dentro de los resultados de la implementación del modelo, el análisis de la madurez de las empresas, seguimiento a indicadores y la consolidación de información y la construcción del informe final de la consultoría empresarial. Las conclusiones de este proceso de intervención, permiten validar  como a través de la asistencia técnica virtual, las organizaciones incrementan sus grados de madurez digital en pro de su progreso digital económico.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }

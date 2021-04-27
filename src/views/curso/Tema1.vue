@@ -95,7 +95,7 @@
       .col-12.col-md-6
         p #[b Para ampliar la información se recomienda consultar el material complementario:]    
       .col-12.col-md-6
-        a.anexo.my-3(:href="('/downloads/Anexo_2_Modelo_de_informe_final.pdf')" target="_blank")
+        a.anexo.my-3(:href="obtenerLink('/downloads/Anexo_2_Modelo_de_informe_final.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
