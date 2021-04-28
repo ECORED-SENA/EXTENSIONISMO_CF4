@@ -91,26 +91,26 @@ export const creditos = {
     },
     {
       nombre: 'Luis Guillermo Alvarez García',
-      cargo: 'Experta temática',
+      cargo: 'Experto temático',
       centro: 'Centro De Servicios y Gestión Empresarial',
       regional: 'Regional Antioquia',
     },
     {
       nombre: 'Alejandro Moncada Betancur',
-      cargo: 'Experta temática',
+      cargo: 'Experto temático',
       centro: 'Centro De Procesos Industriales y Construcción',
       regional: 'Regional Caldas',
     },
     {
       nombre: 'Leidy Yohana Ortiz Diaz',
-      cargo: 'Experto temático',
+      cargo: 'Experta temática',
       centro: 'Centro de la Industria, la Empresa y los Servicios',
       regional: 'Regional Norte de Santander',
     },
     {
       nombre: 'Gimena Santacruz Benítez',
-      cargo: 'Experto temático',
-      centro: 'Centro de la Industria, la Empresa y los Servicios Regional,',
+      cargo: 'Experta temática',
+      centro: 'Centro de la Industria, la Empresa y los Servicios,',
       regional: 'Regional Huila',
     },
     {
@@ -139,7 +139,7 @@ export const creditos = {
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte organizacional',
     },
     {
       nombre: [
