@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'Evaluación de resultados de la intervención',
   descripcionCurso:
-    'Este componente aborda la etapa de evaluación de los resultados de intervención, dentro del modelo de extensionismo en el marco de la transformación digital. Incluye dentro de los resultados de la implementación del modelo, el análisis de la madurez de las empresas, seguimiento a indicadores y la consolidación de información y la construcción del informe final de la consultoría empresarial. Las conclusiones de este proceso de intervención, permiten validar  como a través de la asistencia técnica virtual, las organizaciones incrementan sus grados de madurez digital en pro de su progreso digital económico.',
+    'Este material aborda la etapa de evaluación de los resultados de intervención, dentro del modelo de extensionismo en el marco de la transformación digital. Incluye dentro de los resultados de la implementación del modelo, el análisis de la madurez de las empresas, seguimiento a indicadores y la consolidación de información y la construcción del informe final de la consultoría empresarial. Las conclusiones de este proceso de intervención, permiten validar  como a través de la asistencia técnica virtual, las organizaciones incrementan sus grados de madurez digital en pro de su progreso digital económico.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -196,22 +196,22 @@ export const glosario = [
   {
     termino: 'Informe',
     significado:
-      'Consiste en un texto o una declaración que describe las cualidades de un hecho y de los eventos que lo rodean. El informe, por lo tanto, es el resultado o la consecuencia de la acción de informar (difundir, informar).',
+      'consiste en un texto o una declaración que describe las cualidades de un hecho y de los eventos que lo rodean. El informe, por lo tanto, es el resultado o la consecuencia de la acción de informar (difundir, informar).',
   },
   {
     termino: 'Logro',
     significado:
-      'Se denomina logro al alcance de una meta previamente propuesta por una persona o un grupo de personas. Este logro, lejos de ser un mero “golpe de fortuna” (o “suerte”), necesita que la o las personas apliquen diferentes acciones, acordadas de manera previa, de modo que sean tendientes a facilitar el alcance de la meta.',
+      'se denomina logro al alcance de una meta previamente propuesta por una persona o un grupo de personas. Este logro, lejos de ser un mero “golpe de fortuna” (o “suerte”), necesita que la o las personas apliquen diferentes acciones, acordadas de manera previa, de modo que sean tendientes a facilitar el alcance de la meta.',
   },
   {
     termino: 'Matriz EBLA',
     significado:
-      'Identifica experiencias, buenas prácticas, lecciones aprendidas y otras experiencias que considere relevantes a destacar.<ul style="margin-left: 20px; margin-top: 20px"> <li style="margin-top: 10px;"> ●	Experiencias: la aplicación metodológica condujo a los resultados esperados, o por el contrario no fue lo que esperaba.</li> <li style="margin-top: 10px;"></li> <li style="margin-top: 10px;"> ●	Buenas prácticas: ¿qué elementos de la aplicación metodológica considera que lo condujo a resultados adecuados? </li> <li style="margin-top: 10px;"> ●	Lecciones aprendidas: ¿qué elementos de la aplicación metodológica considera se pueden ajustar y/o modificar para mejorar los resultados del acompañamiento? </li> <li style="margin-top: 10px;"> ●	Aportes al programa: sugerencias, recomendaciones, contribuciones y aportes que le haría usted como gestor consultor/extensionista a la implementación de la metodología.</li></ul>',
+      'identifica experiencias, buenas prácticas, lecciones aprendidas y otras experiencias que considere relevantes a destacar.<ul style="margin-left: 20px; margin-top: 20px"> <li style="margin-top: 10px;"> ●	Experiencias: la aplicación metodológica condujo a los resultados esperados, o por el contrario no fue lo que esperaba.</li> <li style="margin-top: 10px;"></li> <li style="margin-top: 10px;"> ●	Buenas prácticas: ¿qué elementos de la aplicación metodológica considera que lo condujo a resultados adecuados? </li> <li style="margin-top: 10px;"> ●	Lecciones aprendidas: ¿qué elementos de la aplicación metodológica considera se pueden ajustar y/o modificar para mejorar los resultados del acompañamiento? </li> <li style="margin-top: 10px;"> ●	Aportes al programa: sugerencias, recomendaciones, contribuciones y aportes que le haría usted como gestor consultor/extensionista a la implementación de la metodología.</li></ul>',
   },
   {
     termino: 'Validar',
     significado:
-      'Se define como dar consistencia, resistencia, firmeza, dureza, coherencia, espesor, trabazón, densidad, solidez y fuerza a algo haciéndolo válido o simplemente en dar validez alguna cosa, constatar o también comprobar que es legal. ',
+      'se define como dar consistencia, resistencia, firmeza, dureza, coherencia, espesor, trabazón, densidad, solidez y fuerza a algo haciéndolo válido o simplemente en dar validez alguna cosa, constatar o también comprobar que es legal. ',
   },
 ]
 
